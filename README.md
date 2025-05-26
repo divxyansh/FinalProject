@@ -22,7 +22,7 @@ git clone https://github.com/yourusername/ensemble-classifier.git
 cd ensemble-classifier
 pip install -r requirements.txt
 
-## Project Structure
+** Project Structure**
 ensemble-classifier/
 │
 ├── baseclassifiers.py       # Contains SVM, Decision Tree, Naive Bayes, etc.
